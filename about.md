@@ -2,13 +2,18 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+# About
+
+- 👋 Hi, I’m @LaurieQiu
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
