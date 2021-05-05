@@ -5,7 +5,6 @@ permalink: /about/
 published: true
 ---
 
-# About
 
 - 👋 Hi, I’m @LaurieQiu
 - 👀 I’m interested in ...
