@@ -1,6 +1,10 @@
-I think this article, the mission conveyed in it, what is planned to be done and what has been done, are really cool and inspiring. Solute to Alexandra Elbakyan, Bookwarrior, Aaron Swartz, and the countless unsung people who fought for open science.
+这篇帖子名为“Rescue Mission for Sci-Hub and Open Science: We are the library”，在这里我粗疏的翻译为：〈Sci-Hub和开放科学救援任务：我们和你们站在一起〉。
+这篇帖子里传达的理念，支持这一理念的人们已经做成和计划去做的事情，都让我觉得很受鼓舞。
+我把帖子转贴在这里，方便阅读。
 
-Here's the full article, I post it here for easy reading:
+The post is called "Rescue Mission for Sci-Hub and Open Science: We are the library".
+I find the mission conveyed in this post very cool and inspiring, and it's exciting to see what the people backing the mission have done and plan to do. 
+Here's the full post for easy reading:
 
 [Rescue Mission for Sci-Hub and Open Science: We are the library.](https://old.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/)
 
