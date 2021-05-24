@@ -4,7 +4,7 @@ This article proposes that: "To get around the sustainability issue overall, the
 
 But just as [the HN comment](https://news.ycombinator.com/item?id=27184116) has noted, sometimes it's hard for those looking for permanent cures to get funding.
 
-Here's the full post for easy reading:
+Here's the full article for easy reading:
 
 ## [“Is curing patients a sustainable business model?” Goldman Sachs analysts ask](https://arstechnica.com/tech-policy/2018/04/curing-disease-not-a-sustainable-business-model-goldman-sachs-analysts-say/)
 
