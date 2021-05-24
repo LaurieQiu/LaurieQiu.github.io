@@ -1,12 +1,13 @@
-What we should opt for, a permanent cure for patient or sustainable business growth? Would the two be less incompatible? 
 
-The article suggests that: "To get around the sustainability issue overall, the report suggests that biotech companies focus on diseases or conditions that seem to be becoming more common and/or are already high-incidence. "
+What we should opt for, a permanent cure for patients or sustainable business growth? Would the two be less incompatible?
+
+The article proposes that: "To get around the sustainability issue overall, the report suggests that biotech companies focus on diseases or conditions that seem to be becoming more common and/or are already high-incidence. "
 
 But just as [the HN comment](https://news.ycombinator.com/item?id=27184116) has noted, sometimes it's hard for those looking for permanent cures to get funding.
 
 Here's the full post for easy reading:
 
-[“Is curing patients a sustainable business model?” Goldman Sachs analysts ask](https://arstechnica.com/tech-policy/2018/04/curing-disease-not-a-sustainable-business-model-goldman-sachs-analysts-say/)
+## [“Is curing patients a sustainable business model?” Goldman Sachs analysts ask](https://arstechnica.com/tech-policy/2018/04/curing-disease-not-a-sustainable-business-model-goldman-sachs-analysts-say/)
 
 Analyst report notes that Gilead’s hep C cure will make less than $4 billion this year.
 
