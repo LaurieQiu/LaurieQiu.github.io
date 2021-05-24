@@ -1,6 +1,6 @@
 What we should opt for, a permanent cure for patients or sustainable business growth? Would the two be less incompatible?
 
-The article proposes that: "To get around the sustainability issue overall, the report (Goldman Sachs' report for biotech clients) suggests that biotech companies focus on diseases or conditions that seem to be becoming more common and/or are already high-incidence. "
+This article proposes that: "To get around the sustainability issue overall, the report (Goldman Sachs' report for biotech clients) suggests that biotech companies focus on diseases or conditions that seem to be becoming more common and/or are already high-incidence. "
 
 But just as [the HN comment](https://news.ycombinator.com/item?id=27184116) has noted, sometimes it's hard for those looking for permanent cures to get funding.
 
