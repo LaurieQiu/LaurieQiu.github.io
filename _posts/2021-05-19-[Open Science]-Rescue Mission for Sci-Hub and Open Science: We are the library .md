@@ -1,8 +1,10 @@
-I find the mission conveyed in this post very cool and inspiring, and it's exciting to see what the people backing the mission have done and plan to do.
+I think this "We are the library" mission is really cool, and it's exciting to see what the people supporting it are doing and planning to do. 
+
+Take a stand, contribute to open science and bring libraries into the future.
 
 Here's the full post for easy reading:
 
-[Rescue Mission for Sci-Hub and Open Science: We are the library.](https://old.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/)
+## [Rescue Mission for Sci-Hub and Open Science: We are the library.](https://old.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/)
 
 **Rescue Mission Links**
 
@@ -11,7 +13,7 @@ Here's the full post for easy reading:
 - Contribute to open source Sci-Hub projects: [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen)
 - Join [/r/scihub](https://old.reddit.com/r/scihub) to stay up to date
 
-# A Rescue Mission for Sci-Hub and Open Science
+### A Rescue Mission for Sci-Hub and Open Science
 
 Elsevier and the USDOJ have declared war against Sci-Hub and open science. The era of Sci-Hub and Alexandra standing alone in this fight must end. We have to take a stand with her.
 
@@ -25,7 +27,7 @@ Why do they do it? They do it so that humble scholars on the other side of the p
 
 It's time we sent Elsevier and the USDOJ a clearer message about the fate of Sci-Hub and open science: we are the library, we do not get silenced, we do not shut down our computers, and we are many.
 
-# Rescue Mission for Sci-Hub
+### Rescue Mission for Sci-Hub
 
 If you have been following the story, then you know that this is not our first rescue mission.
 
@@ -35,11 +37,11 @@ If you have been following the story, then you know that this is not our first r
 - bookwarrior, the *founder* of Library Genesis, took his library [onto the de-centralized and un-censorable IPFS web](http://libgen.fun/)
 - Next? Make Sci-Hub un-censorable too.
 
-# Rescue Target
+### Rescue Target
 
 A handful of Library Genesis seeders are currently seeding the Sci-Hub torrents. There are [850 scihub torrents](http://libgen.rs/scimag/repository_torrent/), each containing 100,000 scientific articles, to a total of 85 million scientific articles: 77TB. This is the complete Sci-Hub database. We need to protect this.
 
-# Rescue Team
+### Rescue Team
 
 **Wave 1:** We need **85 datahoarders** to store and seed 1TB of articles each, 10 torrents in total. Download 10 random torrents from the [scimag index of < 3 seeders](https://phillm.net/torrent-health-frontend/seeds-needed-scimag.php), then load the torrents onto your client and seed for as long as you can. The articles are coded by DOI and in zip files.
 
