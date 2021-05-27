@@ -11,7 +11,6 @@ I list here some key points that may help me or some others to get through a dif
 > ...
 >
 > And then I also wanted to mention that depression can have nutritional causes, like anemia or vitamin B deficiency, and this might be especially a risk for people who don’t eat meat. Since these are pretty easily fixed, getting some bloodwork to check for iron or vitamin deficiencies might be another really good first step if you think you might be depressed.
-
 > ### [Ugh fields](https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields)
 >
 > ...
