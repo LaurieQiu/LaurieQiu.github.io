@@ -1,4 +1,4 @@
-I like people who are really into skateboarding, who are doing it as an expression of their love for life and freedom.
+I like people who are really into skateboarding, doing it as an expression of their love for life and freedom.
 
 They are really bold at pursuing what they like, and expressing it. Because I'm really timid myself, I don't dare to skate, and I don't really have the courage to forgo something in exchange for something that I'm really passionate about, and I give myself a lot of reasons not to do this or that. 
 
