@@ -4,7 +4,7 @@ Because I'm really timid myself, I don't dare to skate, and I don't really have 
 
 This year, I have watched a nunmber of skateboarding videos to chill myself out and hoping they could help me be braver, and hopefully, help me muster up enough courage to overcome my social phobia.
 
-Here are some quotes from the video [The Hill Bombing Skateboarders of San Francisco](https://youtu.be/2d6TBfIZzh0):
+And here are some quotes from the video [The Hill Bombing Skateboarders of San Francisco](https://youtu.be/2d6TBfIZzh0):
 
 > I definitely am trying to stay alive to the best of my ability. But if there's an easier way to, like kill yourself, it's having a nine-to-five and doing that and, like, drinking beer, and going to sleep, and doing it again, like, you're just killing yourself slower. 
 
