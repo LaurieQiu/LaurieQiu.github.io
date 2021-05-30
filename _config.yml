@@ -9,8 +9,7 @@ name: Laurie's Digital Garden
 description: Curate and grow.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:%3Csvg viewBox='0 0 36 36' fill='none' xmlns='http://www.w3.org/2000/svg' width='80' height='80' colors='%23260729,%232a2344,%23495168,%23ccbd9e,%23d8ccb2' name='Coretta Scott' size='80'%3E%3Cmask id='mask__beam' maskUnits='userSpaceOnUse' x='0' y='0' width='36' height='36'%3E%3Crect width='36' height='36' rx='20' fill='white'%3E%3C/rect%3E%3C/mask%3E%3Cg mask='url(%23mask__beam)' fill='transparent'%3E%3Crect width='36' height='36' rx='20' fill='%23495168'%3E%3C/rect%3E%3Crect x='0' y='0' width='36' height='36' transform='translate(9 -5) rotate(199 18 18) scale(1.1)' fill='%23d8ccb2' rx='6'%3E%3C/rect%3E%3Cg transform='translate(4.5 -5) rotate(9 18 18)'%3E%3Cpath d='M15 20c2 1 4 1 6 0' stroke='black' fill='none' stroke-linecap='round'%3E%3C/path%3E%3Crect x='10' y='14' width='1.5' height='2' rx='1' stroke='none' fill='black'%3E%3C/rect%3E%3Crect x='24' y='14' width='1.5' height='2' rx='1' stroke='none' fill='black'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E
-
+avatar: https://avatars.githubusercontent.com/u/78013793?s=400&u=52a2e560dbf9812ca2742e63461a554fd21f617c&v=4
 #
 # Flags below are optional
 #
