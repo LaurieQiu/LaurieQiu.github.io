@@ -16,6 +16,4 @@ People are very kind. And I wonder if wearing a helmet can be part of the skateb
 
 Sometimes, maybe we just need to get the balance right. 
 
----
-
-I'd like to add that the primary reason I'm into skateboarding culture is because someone I admire is doing it. I want to be like her. And I hope all is well with her.  
+Finally, I'd like to add that the primary reason I'm into skateboarding culture is because someone I admire is doing it. I want to be like her. And I hope all is well with her.  
