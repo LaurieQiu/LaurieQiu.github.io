@@ -1,4 +1,4 @@
-Here's the excerpt from a BBC learning English feature - [Compassion fatigue](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210527). I ran into this feature today. 
+Here are the excerpts from a BBC learning English feature - [Compassion fatigue](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210527). I ran into this feature today. 
 
 > Tom emphasises compassion as a habit to be developed, instead of something finite – limited or having a fixed size. 
 >
