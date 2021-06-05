@@ -2,7 +2,7 @@ Things don't always go well. When bad things happen, we are better able to deal 
 
 [This article](https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/) is a bit long. I've spent a lot of time reading the article and some of the ideas resonate well. 
 
-I list here some key points that may help me or some others to get through a difficult situation that may occur later in life.
+I list here some key points that may help me or some others to get through a difficult situation that may come up in life.
 
 > ### Seeking out treatment
 >
