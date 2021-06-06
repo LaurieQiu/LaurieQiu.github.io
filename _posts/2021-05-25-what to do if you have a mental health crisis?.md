@@ -1,8 +1,8 @@
-Things don't always go well. When bad things happen, we are better able to deal with them if we know in advance what they might be and what the possible solutions are.
+Things don't always go well. When bad things happen, we can handle them better if we know in advance what they might be and what the possible solutions are.
 
-[This article](https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/) is a bit long. I've spent a lot of time reading the article and some of the ideas resonate well. 
+[This article](https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/) is a bit long. I spent a lot of time reading it and some of the ideas resonated. 
 
-I list here some key points that may help me or some others to get through a difficult situation that may come up in life.
+I list here some key points that may help me or some others get through a difficult situation in life.
 
 > ### Seeking out treatment
 >
