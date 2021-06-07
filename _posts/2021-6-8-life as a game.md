@@ -12,4 +12,4 @@ I read [an article](https://www.notboring.co/p/the-great-online-game) several da
 
 And this reminds me of Buddhism, which holds that things are a reflection of our own mind, and there isn't really boundary between us and the everything in the world. More often than not we are just trapped by our own thoughts, our own mind.
 
-I wonder, if I can take it all as a game, or as a reflection of my own thoughts, would I be happier, less stressed, and kinder? 
+I wonder, if I can take it all as a game, or as a reflection of my own thoughts, would I be happier, less stressed, and kinder? All I know for now is that it's easier said than done. For starters, we need to combat our selfish instincts, which is essential for survival, all the time. Some of the theories just kind of go against with that. 
