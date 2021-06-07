@@ -14,6 +14,4 @@ Meanwhile, I also saw a lot of comments below the video reminding skateboarders 
 
 People are very kind. And I wonder if wearing a helmet can be part of the skateboarding culture. It can be the norm and skateboarders can also be bold and cool while wearing helmets. And it also reassures those who care about them. 
 
-Sometimes, maybe we just need to get the balance right. 
-
-Finally, I'd like to add that the primary reason I'm into skateboarding culture is because someone I admire is doing it. I want to be like her. And I hope all is well with her.  
+Sometimes, maybe we just need to get the balance right.
