@@ -10,6 +10,6 @@ I read [an article](https://www.notboring.co/p/the-great-online-game), several d
 >
 > Hit the right keys in the right order, make money. Work is just an often boring sub-game within the meta-game.
 
-And this reminds me of Buddhism, which suggests that things are a reflection of your own mind, and there isn't really boundary between you and the everything in the world. More often than not we are just trapped by our own thoughts, our own mind.
+And this reminds me of Buddhism, which holds that things are a reflection of your own mind, and there isn't really boundary between you and the everything in the world. More often than not we are just trapped by our own thoughts, our own mind.
 
 I wonder, if I can take it all as a game, or as a reflection of my own thoughts, would I be happier, less stressed, and kinder? 
