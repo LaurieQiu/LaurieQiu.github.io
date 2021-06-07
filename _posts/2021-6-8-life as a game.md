@@ -1,6 +1,6 @@
 I read [an article](https://www.notboring.co/p/the-great-online-game) several days ago, and some of the ideas kept lingering in my mind: 
 
-> The *Oxford English Dictionary* defines a **video game** as, “A game played by **electronically manipulating images produced by a computer program** on a television screen or other display screen.”
+> The *Oxford English Dictionary* defines a video game as, “A game played by electronically manipulating images produced by a computer program on a television screen or other display screen.”
 >
 > If you’re working remotely from a computer, what you’re doing perfectly fits the definition of a video game. 
 >
