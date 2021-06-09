@@ -21,5 +21,4 @@ And the *TL;DR* excerpts of the tips and resources:
 > - **9 Mental Health Habits for your software & hardware:** Meditation, Journaling, Sleep, Exercise, Eat, Talk with friends, Make new friends, Learning, Practicing virtues.
 
 Finally, another quote from the author:
-
 > Whoever you are: Stay determined. Good luck.
