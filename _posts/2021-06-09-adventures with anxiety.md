@@ -1,7 +1,6 @@
 Procrastinating on what I need to do, I played an interactive game about [anxiety](https://ncase.me/anxiety), and read the author's [mental health tips & resources](https://ncase.me/mental-health). 
 
 Here's a description of the game: 
->
 > *Adventures With Anxiety* is about, well, anxiety. 
 >
 > But I've made this *for* folks with anxiety disorder, like myself. I hope it can help you see - with humor - how anxiety works. And, just maybe, reduce the fear of fear itself. 
@@ -9,7 +8,6 @@ Here's a description of the game:
 > There's also badly-drawn stick figures and a hyperactive wolf. Enjoy!
 
 And the *TL;DR* excerpts of the tips and resources:
->
 > - **Do not fear fear itself.**
 > - Pain is a protector.
 > - Fear is a guard dog for your needs.
