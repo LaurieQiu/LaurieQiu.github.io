@@ -21,3 +21,7 @@ And the *TL;DR* excerpts of the tips and resources:
 > - To form habits, have a consistent "When" and simple "Then". Track your progress for ~66 days. One habit at a time.
 > - Physical health affects mental health & vice versa. Hardware affects software, software affects hardware.
 > - **9 Mental Health Habits for your software & hardware:** Meditation, Journaling, Sleep, Exercise, Eat, Talk with friends, Make new friends, Learning, Practicing virtues.
+
+Finally, another quote from the author:
+
+> Whoever you are: Stay determined. Good luck.
