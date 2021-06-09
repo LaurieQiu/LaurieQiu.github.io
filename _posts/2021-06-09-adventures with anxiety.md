@@ -1,4 +1,4 @@
-Procrasting on what I need to do, I played an interactive game about [anxiety](https://ncase.me/anxiety/), and read the author's [mental health tips & resources](https://ncase.me/anxiety). 
+Procrastinating on what I need to do, I played an interactive game about [anxiety](https://ncase.me/anxiety/), and read the author's [mental health tips & resources](https://ncase.me/anxiety). 
 
 Here's a description of the game: 
 
