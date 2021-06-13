@@ -1,6 +1,6 @@
 I like people who are really into skateboarding, doing it as an expression of their love for life and freedom. I respect their courage.
 
-This year, I have watched a number of skateboarding videos to chill myself out. And here are some quotes from the video [The Hill Bombing Skateboarders of San Francisco](https://youtu.be/2d6TBfIZzh0):
+This year, I have watched a number of skateboarding videos to chill myself out. And here are some quotes from the video *[The Hill Bombing Skateboarders of San Francisco](https://youtu.be/2d6TBfIZzh0)*:
 
 > I definitely am trying to stay alive to the best of my ability. But if there's an easier way to, like kill yourself, it's having a nine-to-five and doing that and, like, drinking beer, and going to sleep, and doing it again, like, you're just killing yourself slower. 
 
