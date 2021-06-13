@@ -13,4 +13,4 @@ If you need visual (photo) instruction to guide you through this, or if you need
 
 P.S. I write this piece primarily for one of my important friends. Just want her to know that I need some space. I know she cares about me, but follow my blog using RSS would be more comfortable for me. And if she needs any technical information, she can feel free to contact me. 
 
-If I can get through all of this, I would reach out to her as soon as I can. She's always very supportive and I wish she well.
+If I can get through all of this, I would reach out to her as soon as I can. She's always very supportive and I wish her well.
