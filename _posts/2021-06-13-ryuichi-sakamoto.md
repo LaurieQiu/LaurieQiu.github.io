@@ -1,4 +1,4 @@
-Reading these also brighten me up:
+Reading these also brightens me up:
 
 [Sonic Memories: A Conversation with Ryuichi Sakamoto](https://www.criterion.com/current/posts/4625-sonic-memories-a-conversation-with-ryuichi-sakamoto)
 
