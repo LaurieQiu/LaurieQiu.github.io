@@ -11,4 +11,4 @@ It's actually very easy. First, install a RSS reader, such as *Feedly*. Then,  f
 
 If you need photo instruction to guide you through this, you can read this: *[What Is an RSS Feed? (And Where to Get It)](https://www.lifewire.com/what-is-an-rss-feed-4684568)*
 
-P.S. I write this piece primarily for one of my important friends. Just want her to know that I need some space. Follow my blog using RSS would be more comfortable for me.
+P.S. I write this piece primarily for one of my important friends. Just want her to know that I need some space. I know she cares about me, but follow my blog using RSS would be more comfortable for me.
