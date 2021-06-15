@@ -1,4 +1,4 @@
-It's actually very easy. First, install a RSS reader, such as *Feedly*. Then,  follow the first 3 steps as listed below and you can figure out the rest  without having to refer to further steps.
+It's actually very easy. First, install an RSS reader, such as *Feedly*. Then,  follow the first 3 steps as listed below and you can figure out the rest  without having to refer to further steps.
 
 > 1. Copy the URL of an RSS feed.
 > 2. Paste the URL in the Feedly Search box and select the RSS feed from the list of sources.
