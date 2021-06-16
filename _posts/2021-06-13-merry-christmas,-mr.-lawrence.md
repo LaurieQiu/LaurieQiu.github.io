@@ -1,4 +1,4 @@
-Those moments. They are beautiful, in that cruel war. So is Sakamoto's music.
+Those moments are beautiful, in that cruel war. So is Sakamoto's music.
 
 They are also sad. It's been a while, but I still cannot walk away from the feeling of pale sadness that I took from the movie. 
 
