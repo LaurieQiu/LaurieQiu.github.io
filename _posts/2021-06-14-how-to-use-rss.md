@@ -14,6 +14,6 @@ It's actually very easy. First, install an RSS reader, such as *Feedly*. Then,  
 > 7. In the left pane, select the RSS feed.
 > 8. Select the content you want to read.
 
-If you need visual (photo) instruction to guide you through this, or if you need further information on RSS, you can read this: *[What Is an RSS Feed? (And Where to Get It)](https://www.lifewire.com/what-is-an-rss-feed-4684568)*
+If you need visual instruction to guide you through this, or if you need further information on RSS, you can read this: *[What Is an RSS Feed? (And Where to Get It)](https://www.lifewire.com/what-is-an-rss-feed-4684568)*
 
 *Updated on June 18, 2021*
