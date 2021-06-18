@@ -1,3 +1,8 @@
+---
+layout: post
+title: Skateboarding as a way of life
+---
+
 I like people who are really into skateboarding, doing it as an expression of their love for life and freedom. I respect their courage.
 
 This year, I have watched a number of skateboarding videos to chill myself out. And here are some quotes from the video *[The Hill Bombing Skateboarders of San Francisco](https://youtu.be/2d6TBfIZzh0)*:
