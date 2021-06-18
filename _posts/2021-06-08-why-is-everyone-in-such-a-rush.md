@@ -1,3 +1,8 @@
+---
+layout: post
+title: Why is everyone in such a rush?
+---
+
 [This article](https://norvig.com/21-days.html) is titled "Teach Yourself Programming in Ten Years", and it's reassuring to learn some ideas from it, during what could be called a "turbulent" phase in my life.
 
 Here are some excerpts: 
