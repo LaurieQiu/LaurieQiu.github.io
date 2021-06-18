@@ -1,3 +1,8 @@
+---
+layout: post
+title: What to do if you have a mental health crisis?
+---
+
 Things don't always go well. When bad things happen, we can handle them better if we know in advance what they might be and what the possible solutions are.
 
 [This article](https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/) is a bit long. I spent a lot of time reading it and some of the ideas resonated. 
